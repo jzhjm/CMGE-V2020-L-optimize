@@ -146,5 +146,5 @@
 ```
 
 
-[Pic1]:https://gitee.com/hjim/cmgos/raw/master/img/%E9%BB%98%E8%AE%A4%E7%95%8C%E9%9D%A2.png
-[Pic2]:https://gitee.com/hjim/cmgos/raw/master/img/%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81.png
+[Pic1]:https://github.com/jzhjm/CMGE-V2020-L-optimize/blob/main/img/%E9%BB%98%E8%AE%A4%E7%95%8C%E9%9D%A2.png
+[Pic2]:https://https://github.com/jzhjm/CMGE-V2020-L-optimize/blob/main/img/%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81.png
